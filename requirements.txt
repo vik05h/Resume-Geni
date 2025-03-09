@@ -1,0 +1,7 @@
+Flask==2.2.2
+python-docx==0.8.11    # For reading DOCX files
+PyPDF2==3.0.1         # For PDF parsing
+requests==2.28.1      # For external API calls
+transformers==4.36.2   # For AI-based text classification
+torch>=2.0.0          # Required for transformers
+werkzeug>=2.2.2       # For Flask dependencies
